@@ -1,0 +1,20 @@
+.header{
+    background: gray;
+}
+.headerText{
+    background: black;
+    color: white;
+}
+.headerImg{
+    background: blue;
+}
+.about{
+    background: chartreuse;
+}
+.text{
+    background: red;
+    color: blue;
+}
+.bay{
+    background: pink;
+}
